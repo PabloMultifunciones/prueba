@@ -12,9 +12,7 @@
 app/tmp/cache/60min/*
 
 #Personalizado por pablo
-composer.json
-/app/Config/bootstrap.php
-
+/carpeta prueba/readme.txt
 # Node artifact files
 node_modules/
 

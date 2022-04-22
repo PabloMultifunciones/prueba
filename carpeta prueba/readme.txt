@@ -1,1 +1,1 @@
-este es el texto de pepito
+este es el texto de juancito y pepito

@@ -12,7 +12,7 @@
 app/tmp/cache/60min/*
 
 #Personalizado por pablo
-/carpeta prueba/readme.txt
+carpeta prueba/readme.txt
 # Node artifact files
 node_modules/
 
